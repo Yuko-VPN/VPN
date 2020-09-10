@@ -1,12 +1,12 @@
 Yuko冲浪室之防迷路指南~
 ====
-:heart:永久官网：yuko.store（需要挂梯子才能打开）  
+  :heart:永久官网：yuko.store（需要挂梯子才能打开）  
 -------
-:point_right:备用地址：yuko.work（无需挂梯子）  
+  :point_right:备用地址：yuko.work（无需挂梯子）  
 -------
-请收藏：https : //github.com/tizi12/tiziin/blob/a/a.md  
+  请收藏：https : //github.com/tizi12/tiziin/blob/a/a.md  
 #
-请通过邮箱：yukovpn@gmail.com 联系我们！  
+  请通过邮箱：yukovpn@gmail.com 联系我们！  
 #
 说明
 -------
