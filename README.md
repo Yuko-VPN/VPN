@@ -1,8 +1,8 @@
 Yuko冲浪室之防迷路指南~
-====
-:heart:永久官网：yuko.store（https://yuko.store/）（需要挂梯子才能打开）
+==== 
+:heart:永久官网：[yuko.store]（https://yuko.store/）  （需要挂梯子才能打开）
 -------
-:point_right:备用地址：yuko.work（https://yuko.work/user）（无需挂梯子）
+:point_right:备用地址：[yuko.work]（https://yuko.work/user）  （无需挂梯子）
 -------
 请收藏：https://github.com/Yuko-VPN/VPN
 #
