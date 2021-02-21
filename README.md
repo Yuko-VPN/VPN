@@ -2,7 +2,7 @@ Yuko冲浪室之防迷路指南~
 ==== 
 :heart:永久官网：[yuko.work](https://yuko.work/) （需要挂梯子才能打开）
 -------
-:point_right:国内加速地址：[http://a.yuko.work:11233/](http://a.yuko.work:11233/)  （无需挂梯子）
+:point_right:国内加速地址：[http://a.yuko.work:11233/](http://a.yuko.work:11233/)  （打开之后点击“加入冲浪”,无需挂梯子）
 -------
 请收藏：https://github.com/Yuko-VPN/VPN
 #
