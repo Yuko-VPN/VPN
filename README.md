@@ -2,7 +2,7 @@ Yuko冲浪室之防迷路指南~本站所有入口均需要挂代理才能进入
 ==== 
 :heart:永久官网：[https://yuko.today/auth/login](https://yuko.today/auth/login) （需要挂梯子才能打开）
 -------
-:point_right:最新地址：[https://ap-yuko.work](https://ap-yuko.work/auth/login) 
+:point_right:最新地址：[https://ap-yuko.top](https://ap-yuko.top/auth/login) 
 -------
 请收藏：https://github.com/Yuko-VPN/VPN
 #
